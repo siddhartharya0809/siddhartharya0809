@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_siddhartharya_" target="blank"><img src="https://img.shields.io/twitter/follow/_siddhartharya_?logo=twitter&style=for-the-badge" alt="_siddhartharya_" /></a> </p>
 
-- 🔭 I’m currently working on **SRM Space**
+<!-- - 🔭 I’m currently working on **SRM Space** -->
 
 - 🌱 I’m currently learning **node.js and react.js**
 
