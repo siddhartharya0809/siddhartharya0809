@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **SRM Space** -->
 
-- 🌱 I’m currently learning **node.js and react.js**
+- 🌱 I’m currently learning **Web Development and DSA**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
