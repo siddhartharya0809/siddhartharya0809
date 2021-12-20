@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Arya</h1>
-<h3 align="center">A passionate Web  developer from India</h3>
+<h3 align="center">I'm a full stack Web Developer</h3>
 <h4 align="center"> I am glad you came here. Currently I'm building my github strong so please visit again.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartharya0809&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartharya0809" /> </p>
@@ -8,13 +8,13 @@
 
 <!-- - 🔭 I’m currently working on **SRM Space** -->
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **React and Nextjs or frontend projects**
 
-- 🤝 I’m looking for help with you in **JavaScript, node.js, mongoDB**
+- 🤝 I’m looking for help with you in **JavaScript, node.js, mongoDB, React**
 
-- 💬 Ask me about **Django, JS, node, Mongo, SQL**
+- 💬 Ask me about **Django, ReactJS, Node, Mongo, SQL**
 
 - 📫 How to reach me **siddhartharya@gmail.com**
 
