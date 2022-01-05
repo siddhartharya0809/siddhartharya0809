@@ -40,7 +40,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</div>
-  <div><a href="https://app.daily.dev/siddhartharya08"><img src="https://api.daily.dev/devcards/33a494deeb8e45558b5e0b2f069c7d8e.png?r=idw" width="400" alt="Siddharth Arya's Dev Card"/></a></div>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" /></p>
