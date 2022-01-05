@@ -41,5 +41,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
+<a href="https://app.daily.dev/siddhartharya08"><img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" /></p>
