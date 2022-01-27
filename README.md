@@ -64,10 +64,12 @@
 	</a>
 </div>
 
-<h3 align="center">Devcard:</h3>
-<a href="https://app.daily.dev/siddhartharya08" align="center">
-	<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
-</a>
+<div align="center">
+	<h3>Devcard:</h3>
+	<a href="https://app.daily.dev/siddhartharya08">
+		<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
+	</a>
+</div>
 
 <h3 align= "center">Most Used Langugages:</h3>
 <p align="center">
