@@ -102,7 +102,7 @@
 			</a>
 		</td>
 		<td>
-			<h3 align= "center">Most Used Langugages:</h3>
+			<h3>Most Used Langugages:</h3>
 			<p>
 				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact&theme=radical" alt="siddhartharya0809" />
 			</p>
