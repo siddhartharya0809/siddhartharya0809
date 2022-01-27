@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi 👋 I'm Siddharth.
+	नमस्ते (Namaste)🙏🏻,I'm Siddharth.
 	<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
 </h1>
 
@@ -60,9 +60,20 @@ const Siddharth = {
   tools: [React, Redux, Node, Cytoscape.js, NestJS, Strapi, Styled-Components, Jest, HubSpot CMS,
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-    name: "Web3 - Blockchain",
-    speaker: "yasir",
-    mentor: "yasir",
+	  	1:{
+		    name: "Web3 - Blockchain",
+    		mentor: "yasir",
+		},
+		2:{
+		    name: "Codedamn",
+			mentor: "Mehul",
+		},
+		3:{
+			name: "SAWO",
+			mentor: "SAWO Labs"
+		}
+
+
   },
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react.js and node.js. I am looking to learn more about the web and blockchain.",
