@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋 I'm Siddharth.</h1>
-<h3 align="center">I'm a Frontend Developer</h3>
+<h1 align="center">
+	Hi 👋 I'm Siddharth.
+	<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
+</h1>
+<h3 align="center">
+	I'm a Frontend Developer
+	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 <p align="center"> Based in Jaipur. <B>Web Developer</B>, I build and design websites which are dynamic and interactive....
 </p>
 
@@ -41,8 +47,8 @@
 
 - ⚡ Fun fact **First computer bug was actually a dead moth.**
 
-<br><br>
-
+<br>
+<!--
 <div align="left" >
 	<h3 align="left">Languages and Tools:</h3>
 	<a href="https://www.python.org" target="_blank"> 
@@ -76,20 +82,26 @@
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	</a>
 </div>
-
-<!--
-	<div align="center">
-		<h3>Devcard:</h3>
-		<a href="https://app.daily.dev/siddhartharya08">
-			<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
-		</a>
-	</div>
-
-	<h3 align= "center">Most Used Langugages:</h3>
-	<p align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" />
-	</p>
 -->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const Siddharth = {
+  pronouns: "he",
+  code: [Javascript, ReactJS, NodeJS, HTML, CSS, Python, CPP],
+  tools: [React, Redux, Node, Cytoscape.js, NestJS, Strapi,  Styled - Components, Jest, HubSpot CMS,
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    name: "Web3 - Blockchain",
+    speaker: "yasir",
+    mentor: "yasir",
+  },
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
+```
+
 <br>
 <div>
 	<h3>Devcard and Most Used Langs.</h3>
