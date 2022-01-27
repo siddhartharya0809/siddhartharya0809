@@ -3,20 +3,31 @@
 <p align="center"> Based in Jaipur. <B>Web Developer</B>, I build and design websites which are dynamic and interactive....
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=siddhartharya0809&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartharya0809" />
-</p>
-<p align="center">
-	<a href="https://twitter.com/_siddhartharya_">
-    	<img src="https://img.shields.io/twitter/follow/_siddhartharya_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  	</a>
-  	<a href="https://www.linkedin.com/in/siddhartharya084/">
-    	<img src="https://img.shields.io/badge/linkedin-linkedin-blue?logo=linkedin&style=for-the-badge&color=blue" />
-  	</a>
-  	<a href="https://www.instagram.com/_siddharth.arya_">
-    	<img src="https://img.shields.io/badge/instagram-instagram-blue?logo=instagram&style=for-the-badge&color=blue" />
-	</a>
- </p>
+<br>
+
+<div>
+	<p align="center">
+		<img src="https://komarev.com/ghpvc/?username=siddhartharya0809&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartharya0809" />
+	</p>
+</div>
+
+<br>
+
+<div>
+	<p align="center">
+		<a href="https://twitter.com/_siddhartharya_">
+			<img src="https://img.shields.io/twitter/follow/_siddhartharya_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+		</a>
+		<a href="https://www.linkedin.com/in/siddhartharya084/">
+			<img src="https://img.shields.io/badge/linkedin-linkedin-blue?logo=linkedin&style=for-the-badge&color=blue" />
+		</a>
+		<a href="https://www.instagram.com/_siddharth.arya_">
+			<img src="https://img.shields.io/badge/instagram-instagram-blue?logo=instagram&style=for-the-badge&color=blue" />
+		</a>
+	</p>
+</div>
+
+<br>
 
 - 🌱 I’m currently learning **Front End Development**
 
@@ -29,6 +40,8 @@
 - 📫 How to reach me **siddhartharya@gmail.com**
 
 - ⚡ Fun fact **First computer bug was actually a dead moth.**
+
+<br><br>
 
 <div align="left" >
 	<h3 align="left">Languages and Tools:</h3>
@@ -64,17 +77,19 @@
 	</a>
 </div>
 
-<!-- <div align="center">
-	<h3>Devcard:</h3>
-	<a href="https://app.daily.dev/siddhartharya08">
-		<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
-	</a>
-</div>
+<!--
+	<div align="center">
+		<h3>Devcard:</h3>
+		<a href="https://app.daily.dev/siddhartharya08">
+			<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
+		</a>
+	</div>
 
-<h3 align= "center">Most Used Langugages:</h3>
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" />
-</p> -->
+	<h3 align= "center">Most Used Langugages:</h3>
+	<p align="center">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" />
+	</p>
+-->
 <br>
 <div>
 	<h3>Devcard and Most Used Langs.</h3>
