@@ -2,10 +2,12 @@
 	Hi 👋 I'm Siddharth.
 	<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
 </h1>
+
 <h3 align="center">
 	I'm a Frontend Developer
 	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
+
 <p align="center"> Based in Jaipur. <B>Web Developer</B>, I build and design websites which are dynamic and interactive....
 </p>
 
@@ -48,41 +50,6 @@
 - ⚡ Fun fact **First computer bug was actually a dead moth.**
 
 <br>
-<!--
-<div align="left" >
-	<h3 align="left">Languages and Tools:</h3>
-	<a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.djangoproject.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-	</a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	</a>
-	<a href="https://reactjs.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a> 
-	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	</a> 
-	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-	</a>
-</div>
--->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -90,7 +57,7 @@
 const Siddharth = {
   pronouns: "he",
   code: [Javascript, ReactJS, NodeJS, HTML, CSS, Python, CPP],
-  tools: [React, Redux, Node, Cytoscape.js, NestJS, Strapi,  Styled - Components, Jest, HubSpot CMS,
+  tools: [React, Redux, Node, Cytoscape.js, NestJS, Strapi, Styled-Components, Jest, HubSpot CMS,
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
     name: "Web3 - Blockchain",
@@ -98,7 +65,8 @@ const Siddharth = {
     mentor: "yasir",
   },
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    "I am doing the #100DaysOfCode challenge focused on react.js and node.js. I am looking to learn more about the web and blockchain.",
+	  why: "I am looking to collaborate on React and Nextjs or frontend projects.",
 };
 ```
 
