@@ -103,8 +103,12 @@
 		</td>
 		<td>
 			<h3 align= "center">Most Used Langugages:</h3>
-			<p align="center">
-				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact" alt="siddhartharya0809" />
+			<p>
+				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharya0809&show_icons=true&locale=en&layout=compact&theme=radical" alt="siddhartharya0809" />
+			</p>
+			<h3>Stats:</h3>
+			<p>
+				<img src="https://github-readme-stats.vercel.app/api?username=siddhartharya0809&show_icons=true&theme=radical" alt="siddhartharya0809">
 			</p>
 		</td>
 	</tr>
@@ -120,5 +124,3 @@
 </p>
 
 </div>
-
-<!-- [![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhartharya0809)](https://github.com/siddhartharya0809/github-readme-activity-graph) -->
