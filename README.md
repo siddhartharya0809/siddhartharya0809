@@ -49,9 +49,9 @@
 
 - 📫 How to reach me **siddhartharya@gmail.com**
 
-- ⚡ Fun fact **First computer bug was actually a dead moth.**
+- ⚡ Fun fact:
 
-<br>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -91,7 +91,7 @@ const Siddharth = {
 		<td>
 			<h3>Devcard:</h3>
 			<a href="https://app.daily.dev/siddhartharya08">
-				<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
+				<!-- <img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/> -->
 			</a>
 		</td>
 		<td>
