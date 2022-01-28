@@ -111,7 +111,7 @@ const Siddharth = {
 <div align="center">
 	<h3>Contribution Graphs</h3>
 	<p>
-    <a href="https://twitter.com/siddhartharya0809">
+    <a href="https://github.com/siddhartharya0809">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=siddhartharya0809&theme=dracula" />
   </a>
 </p>
