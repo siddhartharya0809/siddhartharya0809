@@ -91,7 +91,7 @@ const Siddharth = {
 		<td>
 			<h3>Devcard:</h3>
 			<a href="https://app.daily.dev/siddhartharya08">
-				<!-- <img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/> -->
+				<img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/>
 			</a>
 		</td>
 		<td>
