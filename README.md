@@ -23,22 +23,10 @@
 
 <br>
 
-<div>
-	<p align="center">
-		<a href="https://twitter.com/_siddhartharya_">
-			<img src="https://img.shields.io/twitter/follow/_siddhartharya_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-		</a>
-		<a href="https://www.linkedin.com/in/siddhartharya084/">
-			<img src="https://img.shields.io/badge/linkedin-linkedin-blue?logo=linkedin&style=for-the-badge&color=blue" />
-		</a>
-		<a href="https://www.instagram.com/_siddharth.arya_">
-			<img src="https://img.shields.io/badge/instagram-instagram-blue?logo=instagram&style=for-the-badge&color=blue" />
-		</a>
-	</p>
-</div>
+
 
 <br>
-# 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning Front End Development.<br>👯 I’m looking to collaborate on ReactJS and Next JS or frontend projects<br>🤝 I’m looking for help with you in HTML, CSS, JavaScript, React.<br>💬 Ask me about Django, ReactJS, Node, Mongo, SQL<br>📫 How to reach me siddhartharya@gmail.com
 
 
@@ -56,6 +44,6 @@
 [![](https://gtce.itsvg.in/api?username=_siddhartharya_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddhartharya0809&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=siddhartharya0809&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
