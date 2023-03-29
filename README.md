@@ -36,7 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartharya0809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📑 Article Stats
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <a href="https://app.daily.dev/siddhartharya08"><img src="https://github.com/siddhartharya0809/siddhartharya0809/blob/main/devcard.svg" width="400" alt="Siddharth Arya's Dev Card"/></a>
 
 ## 🐦 Latest Tweet
