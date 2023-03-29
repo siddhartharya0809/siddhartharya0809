@@ -5,10 +5,9 @@
 
 <h3 align="center">
 	I'm a Frontend Developer
-	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 <p align="center"> Based in Jaipur. <B>Web Developer</B>, I build and design websites which are dynamic and interactive....
 </p>
@@ -23,10 +22,6 @@
 
 <br>
 
-
-
-<br>
-💫 About Me:
 🌱 I’m currently learning Front End Development.<br>👯 I’m looking to collaborate on ReactJS and Next JS or frontend projects<br>🤝 I’m looking for help with you in HTML, CSS, JavaScript, React.<br>💬 Ask me about Django, ReactJS, Node, Mongo, SQL<br>📫 How to reach me siddhartharya@gmail.com
 
 
